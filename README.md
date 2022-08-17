@@ -1,7 +1,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Facu</h1>
-<h3 align="center">Fullstack Developer de Mendoza, Argentina eager to work worldwide 🌎.</h3>
+<h3 align="center">Fullstack Developer from Mendoza, Argentina eager to work worldwide 🌎.</h3>
 
 - 🗣 I am a creative person, curious and passionate about challenges. It has been a long road to get to the IT industry but it is the place where I feel comfortable, enjoy and can fully exploit my capabilities.
 
