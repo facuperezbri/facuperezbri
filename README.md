@@ -1,5 +1,7 @@
 
-###  ¡Hi! I'm Facu 👋🏼 Fullstack Developer de Mendoza, Argentina eager to work worldwide 🌎.
+
+<h1 align="center">Hi 👋, I'm Facu</h1>
+<h3 align="center">Fullstack Developer de Mendoza, Argentina eager to work worldwide 🌎.</h3>
 
 - 🗣 I am a creative person, curious and passionate about challenges. It has been a long road to get to the IT industry but it is the place where I feel comfortable, enjoy and can fully exploit my capabilities.
 
@@ -8,10 +10,6 @@
 - 🧑🏽‍💻 If you are looking for a responsible, enthusiastic professional who wants to demonstrate my maximum potential every day, do not hesitate to contact me.
 
 ✉️ facundo.perez.brizuela@gmail.com
-
-
-<h1 align="center">Hi 👋, I'm Facu</h1>
-<h3 align="center">Fullstack Developer de Mendoza, Argentina eager to work worldwide 🌎.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=facuperezbri&label=Profile%20views&color=0e75b6&style=flat" alt="facuperezbri" /> </p>
 
